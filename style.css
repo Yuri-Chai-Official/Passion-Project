@@ -1,0 +1,72 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    
+
+
+    width: 190px;
+    height: 40px;
+
+    border: 0;
+
+    font-size: 15px;
+    background-color: transparent;
+
+    cursor: pointer;
+    
+}
+
+.Home {
+    position: absolute;
+    top: 65px;
+    
+    
+}
+
+
+
+button:hover {
+    background-color: rgb(87, 84, 84);
+}
+
+.btn1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+    .impactdiv {
+        width: 560px;
+    }
+
+    
+    .btn2 {
+        position: absolute;
+        top: 35px;
+        left: 0;
+
+    }
+
+
+
+
+
+    .linkcontainer {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 190px;
+        height: 1000px;
+        background-color: rgb(78, 77, 77);
+
+        
+    }
+
+    
